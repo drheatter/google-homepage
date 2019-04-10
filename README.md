@@ -1,0 +1,1 @@
+This is a project made as part of [the curriculum for The Odin Project]((http://www.theodinproject.com/courses/web-development-101/lessons/html-css)). The goal is to make a visual (non-functioning) copy of the Google home page in order to practice basic HTML and CSS usage.
